@@ -1,3 +1,4 @@
+Client sided at the beginning
 Trainer making changes
 JUNK ON
 Server Edit
